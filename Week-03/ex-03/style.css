@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(255, 255, 0);
+}
+
+h1 {
+    color: #8b0404;
+}
+
+p {
+    margin: 20px;
+    padding: 25px;
+    font-size: 16px;
+    border: 2px solid rgb(255, 0, 187);
+}
+
+Div {
+    border: 5px dashed rgb(79, 0, 251);
+    color: rgb(4, 198, 4);
+}  
+
+.hightlight {
+    background-color: rgb(255, 255, 255);
+}
+
+
+#cat {
+    font-size: 24px;
+    font-style: italic;
+    color: #a46b0f;
+}
